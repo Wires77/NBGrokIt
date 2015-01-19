@@ -1,0 +1,647 @@
+<record>
+  <date>2015-01-18T19:12:25</date>
+  <millis>1421633545101</millis>
+  <sequence>40</sequence>
+  <level>300</level>
+  <thread>18</thread>
+  <message>CPU INFO</message>
+  <param>2</param>
+</record>
+<record>
+  <date>2015-01-18T19:12:25</date>
+  <millis>1421633545136</millis>
+  <sequence>41</sequence>
+  <level>300</level>
+  <thread>18</thread>
+  <message>SCREEN SIZE</message>
+  <param>1920</param>
+  <param>1080</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2015-01-18T19:12:25</date>
+  <millis>1421633545136</millis>
+  <sequence>42</sequence>
+  <level>700</level>
+  <thread>18</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2015-01-18T19:12:30</date>
+  <millis>1421633550590</millis>
+  <sequence>55</sequence>
+  <logger>org.netbeans.ui.metrics.laf</logger>
+  <level>800</level>
+  <thread>18</thread>
+  <message>USG_LOOK_AND_FEEL</message>
+  <param>Aqua</param>
+  <param>Mac OS X</param>
+</record>
+<record>
+  <date>2015-01-18T19:12:39</date>
+  <millis>1421633559674</millis>
+  <sequence>58</sequence>
+  <level>800</level>
+  <thread>33</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8589934592</param>
+</record>
+<record>
+  <date>2015-01-18T19:12:50</date>
+  <millis>1421633570960</millis>
+  <sequence>61</sequence>
+  <logger>org.netbeans.ui.maven.project</logger>
+  <level>800</level>
+  <thread>31</thread>
+  <message>UI_MAVEN_PROJECT_OPENED</message>
+  <key>UI_MAVEN_PROJECT_OPENED</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>jar</param>
+</record>
+<record>
+  <date>2015-01-18T19:12:50</date>
+  <millis>1421633570961</millis>
+  <sequence>62</sequence>
+  <logger>org.netbeans.ui.metrics.maven</logger>
+  <level>800</level>
+  <thread>31</thread>
+  <message>USG_PROJECT_OPEN_MAVEN</message>
+  <param>jar</param>
+</record>
+<record>
+  <date>2015-01-18T19:12:52</date>
+  <millis>1421633572309</millis>
+  <sequence>63</sequence>
+  <logger>org.netbeans.ui.projects</logger>
+  <level>700</level>
+  <thread>31</thread>
+  <message>UI_INIT_PROJECTS</message>
+  <key>UI_INIT_PROJECTS</key>
+  <catalog>org.netbeans.modules.project.ui.Bundle</catalog>
+  <param>org.netbeans.modules.maven.NbMavenProjectImpl</param>
+  <param>NbMavenProjectImpl</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2015-01-18T19:12:52</date>
+  <millis>1421633572309</millis>
+  <sequence>64</sequence>
+  <logger>org.netbeans.ui.metrics.projects</logger>
+  <level>800</level>
+  <thread>31</thread>
+  <message>USG_PROJECT_OPEN</message>
+  <param>org.netbeans.modules.maven.NbMavenProjectImpl</param>
+</record>
+<record>
+  <date>2015-01-18T19:12:52</date>
+  <millis>1421633572433</millis>
+  <sequence>65</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>33</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2015-01-18T19:13:10</date>
+  <millis>1421633590385</millis>
+  <sequence>173</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>22</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>no-ActionEvent</param>
+  <param>no-ActionEvent</param>
+  <param>org.netbeans.editor.BaseKit$SelectWordAction[select-word]</param>
+  <param>org.netbeans.editor.BaseKit$SelectWordAction@4da3d0bf</param>
+  <param>select-word</param>
+</record>
+<record>
+  <date>2015-01-18T19:13:21</date>
+  <millis>1421633601885</millis>
+  <sequence>205</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>400</level>
+  <thread>22</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Open Grok]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.openide.awt.GeneralAction$DelegateAction,Open Grok[key=null]</param>
+  <param>org.openide.awt.GeneralAction$DelegateAction</param>
+  <param>Open Grok</param>
+</record>
+<record>
+  <date>2015-01-18T19:13:22</date>
+  <millis>1421633602534</millis>
+  <sequence>206</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>22</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2015-01-18T19:13:53</date>
+  <millis>1421633633351</millis>
+  <sequence>221</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>22</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>no-ActionEvent</param>
+  <param>no-ActionEvent</param>
+  <param>org.netbeans.editor.BaseKit$SelectWordAction[select-word]</param>
+  <param>org.netbeans.editor.BaseKit$SelectWordAction@42f7beba</param>
+  <param>select-word</param>
+</record>
+<record>
+  <date>2015-01-18T19:13:57</date>
+  <millis>1421633637257</millis>
+  <sequence>241</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>400</level>
+  <thread>22</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Open Grok]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.openide.awt.GeneralAction$DelegateAction,Open Grok[key=null]</param>
+  <param>org.openide.awt.GeneralAction$DelegateAction</param>
+  <param>Open Grok</param>
+</record>
+<record>
+  <date>2015-01-18T19:13:58</date>
+  <millis>1421633638424</millis>
+  <sequence>276</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>22</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2015-01-18T19:13:58</date>
+  <millis>1421633638515</millis>
+  <sequence>293</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>33</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>66080</param>
+  <param>java</param>
+  <param>59</param>
+  <param>38781</param>
+  <param>SpringBinary</param>
+  <param>57</param>
+  <param>5</param>
+  <param>TaskListIndexer</param>
+  <param>2</param>
+  <param>1</param>
+  <param>org.netbeans.modules.java.source.indexing.COSSynchronizingIndexer</param>
+  <param>2</param>
+  <param>27</param>
+  <param>CopyResourcesIndexer</param>
+  <param>2</param>
+  <param>0</param>
+  <param>jsfBinary</param>
+  <param>57</param>
+  <param>7378</param>
+  <param>jsfCustomIndexer</param>
+  <param>2</param>
+  <param>69</param>
+  <param>org-netbeans-modules-jumpto-file-FileIndexer</param>
+  <param>2</param>
+  <param>6</param>
+</record>
+<record>
+  <date>2015-01-18T19:13:59</date>
+  <millis>1421633639185</millis>
+  <sequence>294</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>54</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>22635</param>
+</record>
+<record>
+  <date>2015-01-18T19:15:05</date>
+  <millis>1421633705892</millis>
+  <sequence>295</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>54</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>135</param>
+</record>
+<record>
+  <date>2015-01-18T19:15:19</date>
+  <millis>1421633719735</millis>
+  <sequence>301</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>22</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2015-01-18T19:15:25</date>
+  <millis>1421633725909</millis>
+  <sequence>306</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>54</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>129</param>
+</record>
+<record>
+  <date>2015-01-18T19:15:31</date>
+  <millis>1421633731059</millis>
+  <sequence>307</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>22</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>no-ActionEvent</param>
+  <param>no-ActionEvent</param>
+  <param>org.netbeans.editor.BaseKit$SelectWordAction[select-word]</param>
+  <param>org.netbeans.editor.BaseKit$SelectWordAction@42f7beba</param>
+  <param>select-word</param>
+</record>
+<record>
+  <date>2015-01-18T19:15:32</date>
+  <millis>1421633732784</millis>
+  <sequence>308</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>22</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=⌘+⇧+G,when=1421633732758,modifiers=⌘+⇧] on org.openide.text.QuietEditorPane[,0,0,840x786,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@7ce23650,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=128,g=128,b=128],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=com.apple.laf.AquaImageFactory$SystemColorProxy[r=0,g=0,b=0],selectionColor=com.apple.laf.AquaImageFactory$SystemColorProxy[r=164,g=205,b=255],kit=org.netbeans.modules.xml.text.syntax.XMLKit@65eeab85,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=⌘+⇧+G,when=1421633732758,modifiers=⌘+⇧] on org.openide.text.QuietEditorPane[,0,0,840x786,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@7ce23650,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=128,g=128,b=128],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=com.apple.laf.AquaImageFactory$SystemColorProxy[r=0,g=0,b=0],selectionColor=com.apple.laf.AquaImageFactory$SystemColorProxy[r=164,g=205,b=255],kit=org.netbeans.modules.xml.text.syntax.XMLKit@65eeab85,typeHandlers=]</param>
+  <param>org.netbeans.modules.editor.search.actions.FindPreviousAction[find-previous]</param>
+  <param>FindPreviousAction@1989062251 mime="null" name="find-previous"</param>
+  <param>find-previous</param>
+</record>
+<record>
+  <date>2015-01-18T19:15:32</date>
+  <millis>1421633732787</millis>
+  <sequence>309</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>22</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=⌘+⇧+G,when=1421633732758,modifiers=⌘+⇧] on org.openide.text.QuietEditorPane[,0,0,840x786,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@7ce23650,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=128,g=128,b=128],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=com.apple.laf.AquaImageFactory$SystemColorProxy[r=0,g=0,b=0],selectionColor=com.apple.laf.AquaImageFactory$SystemColorProxy[r=164,g=205,b=255],kit=org.netbeans.modules.xml.text.syntax.XMLKit@65eeab85,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=⌘+⇧+G,when=1421633732758,modifiers=⌘+⇧] on org.openide.text.QuietEditorPane[,0,0,840x786,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@7ce23650,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=128,g=128,b=128],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=com.apple.laf.AquaImageFactory$SystemColorProxy[r=0,g=0,b=0],selectionColor=com.apple.laf.AquaImageFactory$SystemColorProxy[r=164,g=205,b=255],kit=org.netbeans.modules.xml.text.syntax.XMLKit@65eeab85,typeHandlers=]</param>
+  <param>org.netbeans.modules.editor.search.actions.SearchAction[find]</param>
+  <param>SearchAction@1829872205 mime="null" name="find"</param>
+  <param>find</param>
+</record>
+<record>
+  <date>2015-01-18T19:15:33</date>
+  <millis>1421633733403</millis>
+  <sequence>310</sequence>
+  <logger>org.netbeans.ui.metrics.editor</logger>
+  <level>800</level>
+  <thread>22</thread>
+  <message>USG_SEARCH_TYPE</message>
+  <param>default</param>
+</record>
+<record>
+  <date>2015-01-18T19:15:38</date>
+  <millis>1421633738168</millis>
+  <sequence>311</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>22</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=⌘+⇧+G,when=1421633738164,modifiers=⌘+⇧] on org.openide.text.QuietEditorPane[,0,0,840x776,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@7ce23650,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=128,g=128,b=128],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=com.apple.laf.AquaImageFactory$SystemColorProxy[r=0,g=0,b=0],selectionColor=com.apple.laf.AquaImageFactory$SystemColorProxy[r=164,g=205,b=255],kit=org.netbeans.modules.xml.text.syntax.XMLKit@65eeab85,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=⌘+⇧+G,when=1421633738164,modifiers=⌘+⇧] on org.openide.text.QuietEditorPane[,0,0,840x776,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@7ce23650,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=128,g=128,b=128],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=com.apple.laf.AquaImageFactory$SystemColorProxy[r=0,g=0,b=0],selectionColor=com.apple.laf.AquaImageFactory$SystemColorProxy[r=164,g=205,b=255],kit=org.netbeans.modules.xml.text.syntax.XMLKit@65eeab85,typeHandlers=]</param>
+  <param>org.netbeans.modules.editor.search.actions.FindPreviousAction[find-previous]</param>
+  <param>FindPreviousAction@1989062251 mime="null" name="find-previous"</param>
+  <param>find-previous</param>
+</record>
+<record>
+  <date>2015-01-18T19:15:39</date>
+  <millis>1421633739175</millis>
+  <sequence>312</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>22</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>no-ActionEvent</param>
+  <param>no-ActionEvent</param>
+  <param>org.netbeans.editor.BaseKit$SelectWordAction[select-word]</param>
+  <param>org.netbeans.editor.BaseKit$SelectWordAction@42f7beba</param>
+  <param>select-word</param>
+</record>
+<record>
+  <date>2015-01-18T19:15:40</date>
+  <millis>1421633740137</millis>
+  <sequence>313</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>22</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=⌘+⇧+G,when=1421633740133,modifiers=⌘+⇧] on org.openide.text.QuietEditorPane[,0,0,840x776,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@7ce23650,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=128,g=128,b=128],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=com.apple.laf.AquaImageFactory$SystemColorProxy[r=0,g=0,b=0],selectionColor=com.apple.laf.AquaImageFactory$SystemColorProxy[r=164,g=205,b=255],kit=org.netbeans.modules.xml.text.syntax.XMLKit@65eeab85,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=⌘+⇧+G,when=1421633740133,modifiers=⌘+⇧] on org.openide.text.QuietEditorPane[,0,0,840x776,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@7ce23650,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=128,g=128,b=128],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=com.apple.laf.AquaImageFactory$SystemColorProxy[r=0,g=0,b=0],selectionColor=com.apple.laf.AquaImageFactory$SystemColorProxy[r=164,g=205,b=255],kit=org.netbeans.modules.xml.text.syntax.XMLKit@65eeab85,typeHandlers=]</param>
+  <param>org.netbeans.modules.editor.search.actions.FindPreviousAction[find-previous]</param>
+  <param>FindPreviousAction@1989062251 mime="null" name="find-previous"</param>
+  <param>find-previous</param>
+</record>
+<record>
+  <date>2015-01-18T19:15:52</date>
+  <millis>1421633752398</millis>
+  <sequence>314</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>22</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>no-ActionEvent</param>
+  <param>no-ActionEvent</param>
+  <param>org.netbeans.editor.BaseKit$SelectWordAction[select-word]</param>
+  <param>org.netbeans.editor.BaseKit$SelectWordAction@42f7beba</param>
+  <param>select-word</param>
+</record>
+<record>
+  <date>2015-01-18T19:15:53</date>
+  <millis>1421633753069</millis>
+  <sequence>315</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>22</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>no-ActionEvent</param>
+  <param>no-ActionEvent</param>
+  <param>org.netbeans.editor.BaseKit$SelectWordAction[select-word]</param>
+  <param>org.netbeans.editor.BaseKit$SelectWordAction@42f7beba</param>
+  <param>select-word</param>
+</record>
+<record>
+  <date>2015-01-18T19:15:53</date>
+  <millis>1421633753824</millis>
+  <sequence>316</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>22</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=⌘+⇧+G,when=1421633753820,modifiers=⌘+⇧] on org.openide.text.QuietEditorPane[,0,0,840x776,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@7ce23650,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=128,g=128,b=128],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=com.apple.laf.AquaImageFactory$SystemColorProxy[r=0,g=0,b=0],selectionColor=com.apple.laf.AquaImageFactory$SystemColorProxy[r=164,g=205,b=255],kit=org.netbeans.modules.xml.text.syntax.XMLKit@65eeab85,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=⌘+⇧+G,when=1421633753820,modifiers=⌘+⇧] on org.openide.text.QuietEditorPane[,0,0,840x776,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@7ce23650,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=128,g=128,b=128],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=com.apple.laf.AquaImageFactory$SystemColorProxy[r=0,g=0,b=0],selectionColor=com.apple.laf.AquaImageFactory$SystemColorProxy[r=164,g=205,b=255],kit=org.netbeans.modules.xml.text.syntax.XMLKit@65eeab85,typeHandlers=]</param>
+  <param>org.netbeans.modules.editor.search.actions.FindPreviousAction[find-previous]</param>
+  <param>FindPreviousAction@1989062251 mime="null" name="find-previous"</param>
+  <param>find-previous</param>
+</record>
+<record>
+  <date>2015-01-18T19:15:59</date>
+  <millis>1421633759660</millis>
+  <sequence>317</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>22</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>no-ActionEvent</param>
+  <param>no-ActionEvent</param>
+  <param>org.netbeans.editor.BaseKit$SelectWordAction[select-word]</param>
+  <param>org.netbeans.editor.BaseKit$SelectWordAction@42f7beba</param>
+  <param>select-word</param>
+</record>
+<record>
+  <date>2015-01-18T19:16:00</date>
+  <millis>1421633760673</millis>
+  <sequence>318</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>22</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=⌘+⇧+G,when=1421633760668,modifiers=⌘+⇧] on org.openide.text.QuietEditorPane[,0,0,840x786,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@7ce23650,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=128,g=128,b=128],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=com.apple.laf.AquaImageFactory$SystemColorProxy[r=0,g=0,b=0],selectionColor=com.apple.laf.AquaImageFactory$SystemColorProxy[r=164,g=205,b=255],kit=org.netbeans.modules.xml.text.syntax.XMLKit@65eeab85,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=⌘+⇧+G,when=1421633760668,modifiers=⌘+⇧] on org.openide.text.QuietEditorPane[,0,0,840x786,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@7ce23650,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=128,g=128,b=128],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=com.apple.laf.AquaImageFactory$SystemColorProxy[r=0,g=0,b=0],selectionColor=com.apple.laf.AquaImageFactory$SystemColorProxy[r=164,g=205,b=255],kit=org.netbeans.modules.xml.text.syntax.XMLKit@65eeab85,typeHandlers=]</param>
+  <param>org.netbeans.modules.editor.search.actions.FindPreviousAction[find-previous]</param>
+  <param>FindPreviousAction@1989062251 mime="null" name="find-previous"</param>
+  <param>find-previous</param>
+</record>
+<record>
+  <date>2015-01-18T19:16:08</date>
+  <millis>1421633768532</millis>
+  <sequence>319</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>22</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>no-ActionEvent</param>
+  <param>no-ActionEvent</param>
+  <param>org.netbeans.editor.BaseKit$SelectWordAction[select-word]</param>
+  <param>org.netbeans.editor.BaseKit$SelectWordAction@4da3d0bf</param>
+  <param>select-word</param>
+</record>
+<record>
+  <date>2015-01-18T19:16:09</date>
+  <millis>1421633769441</millis>
+  <sequence>320</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>22</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=⌘+⇧+G,when=1421633769436,modifiers=⌘+⇧] on org.openide.text.QuietEditorPane[,0,0,743x728,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@7ce23650,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=128,g=128,b=128],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=com.apple.laf.AquaImageFactory$SystemColorProxy[r=0,g=0,b=0],selectionColor=com.apple.laf.AquaImageFactory$SystemColorProxy[r=164,g=205,b=255],kit=org.netbeans.modules.editor.java.JavaKit@4d5bbb8,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=⌘+⇧+G,when=1421633769436,modifiers=⌘+⇧] on org.openide.text.QuietEditorPane[,0,0,743x728,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@7ce23650,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=128,g=128,b=128],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=com.apple.laf.AquaImageFactory$SystemColorProxy[r=0,g=0,b=0],selectionColor=com.apple.laf.AquaImageFactory$SystemColorProxy[r=164,g=205,b=255],kit=org.netbeans.modules.editor.java.JavaKit@4d5bbb8,typeHandlers=]</param>
+  <param>org.netbeans.modules.editor.search.actions.FindPreviousAction[find-previous]</param>
+  <param>FindPreviousAction@91415779 mime="null" name="find-previous"</param>
+  <param>find-previous</param>
+</record>
+<record>
+  <date>2015-01-18T19:16:16</date>
+  <millis>1421633776835</millis>
+  <sequence>321</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>22</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2015-01-18T19:22:14</date>
+  <millis>1421634134136</millis>
+  <sequence>322</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>33</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>36</param>
+</record>
+<record>
+  <date>2015-01-18T19:22:16</date>
+  <millis>1421634136778</millis>
+  <sequence>323</sequence>
+  <logger>org.netbeans.ui.metrics.editor</logger>
+  <level>800</level>
+  <thread>84</thread>
+  <message>USG_EDITOR_MIME_TYPE</message>
+  <param>text/x-java</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2015-01-18T19:22:16</date>
+  <millis>1421634136779</millis>
+  <sequence>324</sequence>
+  <logger>org.netbeans.ui.metrics.editor</logger>
+  <level>800</level>
+  <thread>84</thread>
+  <message>USG_EDITOR_MIME_TYPE</message>
+  <param>text/x-maven-pom+xml</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2015-01-18T19:22:17</date>
+  <millis>1421634137065</millis>
+  <sequence>326</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>87</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>498550</param>
+</record>
+<record>
+  <date>2015-01-18T19:22:17</date>
+  <millis>1421634137067</millis>
+  <sequence>327</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>87</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2015-01-18T19:22:17</date>
+  <millis>1421634137069</millis>
+  <sequence>328</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>87</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>2</param>
+</record>
+<record>
+  <date>2015-01-18T19:22:17</date>
+  <millis>1421634137107</millis>
+  <sequence>332</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>87</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>36</param>
+</record>
+<record>
+  <date>2015-01-18T19:22:17</date>
+  <millis>1421634137108</millis>
+  <sequence>333</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>87</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>2</param>
+</record>
+<record>
+  <date>2015-01-18T19:22:17</date>
+  <millis>1421634137109</millis>
+  <sequence>337</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>87</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2015-01-18T19:22:17</date>
+  <millis>1421634137111</millis>
+  <sequence>338</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>87</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>2</param>
+</record>
+<record>
+  <date>2015-01-18T19:22:17</date>
+  <millis>1421634137113</millis>
+  <sequence>339</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>87</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>2</param>
+</record>
+<record>
+  <date>2015-01-18T19:22:17</date>
+  <millis>1421634137142</millis>
+  <sequence>343</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>22</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>

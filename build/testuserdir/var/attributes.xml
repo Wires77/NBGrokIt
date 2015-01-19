@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="|Users|dave|Code|NBGrokIt|NBGrokIt|build|testuserdir|var|cache|mavencachedirs|1739471493|org-netbeans-modules-profiler">
+        <attr name="settingsFor" urlvalue="file:/Users/dave/Code/NetBeansProjects/JavaTestingGround/"/>
+    </fileobject>
+    <fileobject name="|Users|dave|Code|NetBeansProjects|JavaTestingGround">
+        <attr name="AuxilaryConfiguration" stringvalue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>\u000a&lt;project-private>\u000a    &lt;editor-bookmarks xmlns=&quot;http://www.netbeans.org/ns/editor-bookmarks/2&quot; lastBookmarkId=&quot;0&quot;/>\u000a    &lt;open-files xmlns=&quot;http://www.netbeans.org/ns/projectui-open-files/2&quot;>\u000a        &lt;group>\u000a            &lt;file>file:/Users/dave/Code/NetBeansProjects/JavaTestingGround/pom.xml&lt;/file>\u000a            &lt;file>file:/Users/dave/Code/NetBeansProjects/JavaTestingGround/src/main/java/com/hoch/javatestingground/App.java&lt;/file>\u000a        &lt;/group>\u000a    &lt;/open-files>\u000a&lt;/project-private>\u000a"/>
+    </fileobject>
+</attributes>

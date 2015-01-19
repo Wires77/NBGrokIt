@@ -30,7 +30,6 @@
                         <specification-version>8.39.1</specification-version>
                     </run-dependency>
                 </dependency>
-                
                 <dependency>
                     <code-name-base>org.openide.nodes</code-name-base>
                     <build-prerequisite/>
@@ -39,7 +38,6 @@
                         <specification-version>7.20.1</specification-version>
                     </run-dependency>
                 </dependency>
-                
             </module-dependencies>
             <public-packages/>
         </data>

@@ -3,7 +3,7 @@ package org.hochhauser.nbgrokit;
 @javax.annotation.Generated(value="org.netbeans.modules.openide.util.NbBundleProcessor")
 class Bundle {
     /**
-     * @return <i>Open Grok</i>
+     * @return <i>GrokIt</i>
      * @see GrokIt
      */
     static String CTL_GrokIt() {

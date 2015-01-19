@@ -8,11 +8,12 @@ javax.swing.JEditorPane
 java.awt.Desktop$Action
 java.awt.Desktop
 java.lang.Object
+java.io.IOException
 org.openide.cookies.EditorCookie
 java.net.URI
 java.awt.event.ActionListener
-java.lang.String
 java.lang.Exception
+java.net.URLEncoder
 ||:org.hochhauser.nbgrokit.Bundle
 java.lang.Object
 org.openide.util.NbBundle

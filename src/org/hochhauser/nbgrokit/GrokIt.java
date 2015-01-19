@@ -4,6 +4,8 @@ import java.awt.Desktop;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.IOException;
+import java.io.UnsupportedEncodingException;
+import java.net.MalformedURLException;
 import java.net.URI;
 import java.net.URISyntaxException;
 import java.net.URLEncoder;
@@ -12,6 +14,7 @@ import org.openide.awt.ActionID;
 import org.openide.awt.ActionReference;
 import org.openide.awt.ActionReferences;
 import org.openide.awt.ActionRegistration;
+import org.openide.awt.HtmlBrowser.URLDisplayer;
 import org.openide.cookies.EditorCookie;
 import org.openide.util.Exceptions;
 import org.openide.util.NbBundle.Messages;
@@ -41,6 +44,7 @@ public final class GrokIt implements ActionListener {
 	@Override
 	public void actionPerformed(ActionEvent ev) {
 		grokText(getSelectedText());
+//		grokInPane(getSelectedText());
 	}
 
 	public static void grokText(String selectedText) {
@@ -48,6 +52,16 @@ public final class GrokIt implements ActionListener {
 			if (selectedText != null)
 				openWebpage("https://www.google.com/#q=" + URLEncoder.encode(selectedText, "UTF-8"));
 		} catch (IOException | URISyntaxException ex) {
+			Exceptions.printStackTrace(ex);
+		}
+	}
+
+	// This is an attempt to open the pane right in NetBeans
+	public static void grokInPane(String selectedText) {
+		try {
+			String searchText = URLEncoder.encode(selectedText, "UTF-8");
+			URLDisplayer.getDefault().showURL(new URI("https://www.google.com/#q=" + URLEncoder.encode(selectedText, "UTF-8")).toURL());
+		} catch (UnsupportedEncodingException | MalformedURLException | URISyntaxException ex) {
 			Exceptions.printStackTrace(ex);
 		}
 	}

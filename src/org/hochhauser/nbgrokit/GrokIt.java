@@ -45,8 +45,7 @@ public final class GrokIt implements ActionListener {
 
 	public static void grokText(String selectedText) {
 		try {
-			if (selectedText != null)
-				URLDisplayer.getDefault().showURL(new URL("http://opengrok/grokcwan/search?q=" + URLEncoder.encode(selectedText, "UTF-8")));
+			URLDisplayer.getDefault().showURL(new URL("http://opengrok/grokcwan/search?q=" + URLEncoder.encode(selectedText, "UTF-8")));
 		} catch (MalformedURLException | UnsupportedEncodingException ex) {
 			Exceptions.printStackTrace(ex);
 		}
@@ -60,6 +59,6 @@ public final class GrokIt implements ActionListener {
 				}
 			}
 		}
-		return null;
+		return "";
 	}
 }

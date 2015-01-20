@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.hochhauser.nbgrokit">
-    <module_version install_time="1421779394252" last="true" origin="installer" specification_version="1.0">
+    <module_version install_time="1421794052690" last="true" origin="installer" specification_version="1.0">
         <file crc="2185450721" name="config/Modules/org-hochhauser-nbgrokit.xml"/>
-        <file crc="1753337546" name="modules/org-hochhauser-nbgrokit.jar"/>
+        <file crc="3662346953" name="modules/org-hochhauser-nbgrokit.jar"/>
     </module_version>
 </module>

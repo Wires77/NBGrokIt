@@ -1,13 +1,10 @@
 package org.hochhauser.nbgrokit;
 
-import java.awt.Desktop;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.io.IOException;
 import java.io.UnsupportedEncodingException;
 import java.net.MalformedURLException;
-import java.net.URI;
-import java.net.URISyntaxException;
+import java.net.URL;
 import java.net.URLEncoder;
 import javax.swing.JEditorPane;
 import org.openide.awt.ActionID;
@@ -32,7 +29,7 @@ import org.openide.util.NbBundle.Messages;
 	@ActionReference(path = "Shortcuts", name = "SC-G")
 })
 
-@Messages("CTL_GrokIt=GrokIt")
+@Messages("CTL_GrokIt=Grok It")
 public final class GrokIt implements ActionListener {
 
 	private final EditorCookie context;
@@ -43,29 +40,19 @@ public final class GrokIt implements ActionListener {
 
 	@Override
 	public void actionPerformed(ActionEvent ev) {
-		grokText(getSelectedText());
-//		grokInPane(getSelectedText());
+		grokText(getSelectedText(context));
 	}
 
 	public static void grokText(String selectedText) {
 		try {
 			if (selectedText != null)
-				openWebpage("http://opengrok/grokcwan/search?q=" + URLEncoder.encode(selectedText, "UTF-8"));
-		} catch (IOException | URISyntaxException ex) {
+				URLDisplayer.getDefault().showURL(new URL("http://opengrok/grokcwan/search?q=" + URLEncoder.encode(selectedText, "UTF-8")));
+		} catch (MalformedURLException | UnsupportedEncodingException ex) {
 			Exceptions.printStackTrace(ex);
 		}
 	}
 
-	// This is an attempt to open the pane right in NetBeans
-	public static void grokInPane(String selectedText) {
-		try {
-			URLDisplayer.getDefault().showURL(new URI("https://www.google.com/#q=" + URLEncoder.encode(selectedText, "UTF-8")).toURL());
-		} catch (UnsupportedEncodingException | MalformedURLException | URISyntaxException ex) {
-			Exceptions.printStackTrace(ex);
-		}
-	}
-
-	public String getSelectedText() {
+	public static String getSelectedText(EditorCookie context) {
 		if (context != null) {
 			for (JEditorPane pane : context.getOpenedPanes()) {
 				if (pane != null && pane.isShowing()) {
@@ -74,18 +61,5 @@ public final class GrokIt implements ActionListener {
 			}
 		}
 		return null;
-	}
-
-	public static void openWebpage(String urlStr) throws IOException, URISyntaxException {
-		openWebpage(new URI(urlStr));
-	}
-
-	public static void openWebpage(URI uri) throws IOException {
-		if (Desktop.isDesktopSupported()) {
-			Desktop desktop = Desktop.getDesktop();
-			if (desktop != null && desktop.isSupported(Desktop.Action.BROWSE)) {
-				desktop.browse(uri);
-			}
-		}
 	}
 }

@@ -31,5 +31,9 @@
             <!--org.hochhauser.nbgrokit.GrokIt-->
             <attr name="originalFile" stringvalue="Actions/Edit/org-hochhauser-nbgrokit-GrokIt.instance"/>
         </file>
+        <file name="SC-G.shadow">
+            <!--org.hochhauser.nbgrokit.GrokIt-->
+            <attr name="originalFile" stringvalue="Actions/Edit/org-hochhauser-nbgrokit-GrokIt.instance"/>
+        </file>
     </folder>
 </filesystem>

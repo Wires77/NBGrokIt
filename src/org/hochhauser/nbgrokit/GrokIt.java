@@ -29,7 +29,7 @@ import org.openide.util.NbBundle.Messages;
 
 @ActionReferences({
 	@ActionReference(path = "Menu/GoTo", position = 750),
-	@ActionReference(path = "Shortcuts", name = "SM-G")
+	@ActionReference(path = "Shortcuts", name = "SC-G")
 })
 
 @Messages("CTL_GrokIt=GrokIt")
@@ -50,7 +50,7 @@ public final class GrokIt implements ActionListener {
 	public static void grokText(String selectedText) {
 		try {
 			if (selectedText != null)
-				openWebpage("https://www.google.com/#q=" + URLEncoder.encode(selectedText, "UTF-8"));
+				openWebpage("http://opengrok/grokcwan/search?q=" + URLEncoder.encode(selectedText, "UTF-8"));
 		} catch (IOException | URISyntaxException ex) {
 			Exceptions.printStackTrace(ex);
 		}
@@ -59,7 +59,6 @@ public final class GrokIt implements ActionListener {
 	// This is an attempt to open the pane right in NetBeans
 	public static void grokInPane(String selectedText) {
 		try {
-			String searchText = URLEncoder.encode(selectedText, "UTF-8");
 			URLDisplayer.getDefault().showURL(new URI("https://www.google.com/#q=" + URLEncoder.encode(selectedText, "UTF-8")).toURL());
 		} catch (UnsupportedEncodingException | MalformedURLException | URISyntaxException ex) {
 			Exceptions.printStackTrace(ex);
